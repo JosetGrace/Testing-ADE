@@ -51,3 +51,4 @@ Or double-click `index.html` directly from your file manager.
 - **HTML5**: Semantic, accessible markup.
 - **CSS3**: Pure vanilla styling, modern flexbox & grid, custom UI components without any external CSS dependencies.
 - **JavaScript (ES6+)**: Vanilla state management, DOM manipulation, and Web Storage API (`localStorage`).
+
